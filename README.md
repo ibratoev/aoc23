@@ -1,0 +1,1 @@
+My solutions to https://adventofcode.com/2023 while I am learning the basics of the Rust language.
